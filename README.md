@@ -1,6 +1,6 @@
 # RunningRecords
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+This project was generated using 100% AI code.
 
 ## Development server
 
